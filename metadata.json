@@ -1,0 +1,6 @@
+{
+  "name": "المتجر الملكي",
+  "description": "تطبيق المتجر الملكي ALMALAKI STORE للتجارة الإلكترونية في اليمن - تسوق الإلكترونيات، التجميل، مستلزمات الجوال والهدايا مع إدارة متكاملة وطلب مباشر عبر واتساب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
